@@ -21,3 +21,5 @@ msgstr ""
 #: hotwireca/views.py:8
 msgid "Welcome to language translation!"
 msgstr ""
+
+
