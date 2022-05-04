@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-04 16:23+0000\n"
+"POT-Creation-Date: 2022-05-04 16:40+0000\n"
 "PO-Revision-Date: 2022-05-01 23:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -76,80 +76,80 @@ msgstr ""
 "을 수 있습니다.여행을 하고 돈을 절약하면 더 자주 여행하고 여행을 하면 더 많"
 "은 것을 얻을 수 있습니다.니가 가져"
 
-#: SDEVProj/templates/index.html:395 SDEVProj/templates/index.html:396
-#: SDEVProj/templates/index.html:424 SDEVProj/templates/index.html:438
+#: SDEVProj/templates/index.html:202 SDEVProj/templates/index.html:203
+#: SDEVProj/templates/index.html:231 SDEVProj/templates/index.html:245
 msgid "Booking"
 msgstr "예약"
 
-#: SDEVProj/templates/index.html:403
+#: SDEVProj/templates/index.html:210
 msgid "Cebu, Philippines"
 msgstr "세부, 필리핀"
 
-#: SDEVProj/templates/index.html:404 SDEVProj/templates/index.html:418
-#: SDEVProj/templates/index.html:432
+#: SDEVProj/templates/index.html:211 SDEVProj/templates/index.html:225
+#: SDEVProj/templates/index.html:239
 msgid "one-way"
 msgstr "일방 통행"
 
-#: SDEVProj/templates/index.html:406
+#: SDEVProj/templates/index.html:213
 msgid "Enjoy the sunny beaches"
 msgstr "햇살 가득한 해변 즐기기"
 
-#: SDEVProj/templates/index.html:407 SDEVProj/templates/index.html:435
+#: SDEVProj/templates/index.html:214 SDEVProj/templates/index.html:242
 msgid "and nightlife"
 msgstr "그리고 밤문화"
 
-#: SDEVProj/templates/index.html:410
+#: SDEVProj/templates/index.html:217
 msgid "Book Now"
 msgstr "지금 예약"
 
-#: SDEVProj/templates/index.html:417
+#: SDEVProj/templates/index.html:224
 msgid "Lagos, Nigeria"
 msgstr "라고스, 나이지리아"
 
-#: SDEVProj/templates/index.html:420
+#: SDEVProj/templates/index.html:227
 msgid "Enjoy the Nightlife"
 msgstr "밤문화 즐기기"
 
-#: SDEVProj/templates/index.html:421
+#: SDEVProj/templates/index.html:228
 msgid "and Safari trips"
 msgstr "그리고 사파리 여행"
 
-#: SDEVProj/templates/index.html:431
+#: SDEVProj/templates/index.html:238
 msgid "Ha noi, Vietnam"
 msgstr "베트남 하노이"
 
-#: SDEVProj/templates/index.html:434
+#: SDEVProj/templates/index.html:241
 msgid "Enjoy the street food"
 msgstr "길거리 음식을 즐기다"
 
-#: SDEVProj/templates/index.html:453 SDEVProj/templates/index.html:454
+#: SDEVProj/templates/index.html:260 SDEVProj/templates/index.html:261
 msgid "Team"
 msgstr "팀"
 
-#: SDEVProj/templates/index.html:455
+#: SDEVProj/templates/index.html:262
 msgid "Let me introduce you to our team"
 msgstr "우리 팀을 소개하겠습니다"
 
-#: SDEVProj/templates/index.html:463
+#: SDEVProj/templates/index.html:270
 msgid "Chief Executive Officer"
 msgstr "최고 경영자"
 
-#: SDEVProj/templates/index.html:465
+#: SDEVProj/templates/index.html:272
 msgid "Mena is the founder of the company she is hardworking and make sure"
 msgstr "Mena는 열심히 일하는 회사의 설립자이며"
 
-#: SDEVProj/templates/index.html:480
+#: SDEVProj/templates/index.html:287
 msgid "Travel Agent"
 msgstr "여행사 직원"
 
-#: SDEVProj/templates/index.html:482
+#: SDEVProj/templates/index.html:289
 msgid ""
 "Anne is a travel agent and she ahs all the advice you would need when "
 "travelling."
 msgstr ""
 "Anne은 여행사이고 그녀는 당신이 그럴 때 필요한 모든 조언을 아십니다.여행."
 
-#: SDEVProj/templates/index.html:499
+#: SDEVProj/templates/index.html:306
 msgid ""
 "Mosumola is resposible for overseeing the development of technology for the "
 "external customers to help improve the business."
@@ -157,29 +157,53 @@ msgstr ""
 "Mosumola는 기술 개발을 감독하는 책임이 있습니다.외부 고객이 비즈니스 개선을 "
 "돕습니다."
 
-#: SDEVProj/templates/index.html:520 SDEVProj/templates/index.html:521
+#: SDEVProj/templates/index.html:327 SDEVProj/templates/index.html:328
 msgid "Contact"
 msgstr "연락하다"
 
-#: SDEVProj/templates/index.html:522
+#: SDEVProj/templates/index.html:329
 msgid ""
 "To make an enquiry please fill out the form below and we shall get back to "
 "you within 24 hours :)"
 msgstr ""
 "문의를 하시려면 아래 양식을 작성해 주시면 답변해 드리겠습니다.24시간 이내 :)"
 
-#: SDEVProj/templates/index.html:529
+#: SDEVProj/templates/index.html:336
 msgid "Our Address"
 msgstr "우리 주소"
 
-#: SDEVProj/templates/index.html:545
+#: SDEVProj/templates/index.html:344
+msgid "Email Us"
+msgstr "이메일:"
+
+#: SDEVProj/templates/index.html:352
 msgid "Call Us"
 msgstr "전화주세요"
 
-#: SDEVProj/templates/index.html:603
+#: SDEVProj/templates/index.html:410
 msgid "Phone:"
 msgstr "핸드폰:"
 
-#: SDEVProj/templates/index.html:604
+#: SDEVProj/templates/index.html:411
 msgid "Email:"
-msgstr "이메일:"
+msgstr "이메일세요:"
+
+#: SDEVProj/templates/index.html:424
+msgid "Useful Links"
+msgstr "유용한 링크"
+
+#: SDEVProj/templates/index.html:426
+msgid "Home"
+msgstr "집"
+
+#: SDEVProj/templates/index.html:427
+msgid "About us"
+msgstr "회사 소개"
+
+#: SDEVProj/templates/index.html:428
+msgid "Terms of service"
+msgstr "서비스 약관"
+
+#: SDEVProj/templates/index.html:429
+msgid "Privacy policy"
+msgstr "개인 정보 정책"
