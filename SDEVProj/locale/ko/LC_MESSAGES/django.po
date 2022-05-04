@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-04 15:24+0000\n"
+"POT-Creation-Date: 2022-05-04 16:23+0000\n"
 "PO-Revision-Date: 2022-05-01 23:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -26,23 +26,23 @@ msgstr "English"
 msgid "Korean"
 msgstr "한국어"
 
-#: SDEVProj/templates/index.html:91
+#: SDEVProj/templates/index.html:90
 msgid "Welcome to HOTWIRE"
 msgstr "핫와이어에 오신 것을 환영합니다"
 
-#: SDEVProj/templates/index.html:92
+#: SDEVProj/templates/index.html:91
 msgid "WE ARE A TRAVELLING WEBSITE"
 msgstr "우리는 여행 웹사이트입니다"
 
-#: SDEVProj/templates/index.html:93
+#: SDEVProj/templates/index.html:92
 msgid "Get Started"
 msgstr "시작하다"
 
-#: SDEVProj/templates/index.html:108
+#: SDEVProj/templates/index.html:107
 msgid "Travel with us!."
 msgstr "우리와 함께 여행!."
 
-#: SDEVProj/templates/index.html:110
+#: SDEVProj/templates/index.html:109
 msgid ""
 "When it comes to travelling, the team Hotwire is a lot like you!. We're "
 "always bringing back travel tips and stories from our adventures because we "
@@ -52,27 +52,134 @@ msgstr ""
 "서 여행 팁과 이야기를 가져오기 때문에우리가 나가서 사는 여행을 생각하지 마십"
 "시오."
 
-#: SDEVProj/templates/index.html:113
+#: SDEVProj/templates/index.html:112
 msgid "Excellent Deals"
 msgstr "우수한 거래"
 
-#: SDEVProj/templates/index.html:114
+#: SDEVProj/templates/index.html:113
 msgid "Reliable ."
 msgstr "믿을 수 있는 ."
 
-#: SDEVProj/templates/index.html:115
+#: SDEVProj/templates/index.html:114
 msgid "Simple and Easy to use."
 msgstr "간단하고 사용하기 쉽습니다"
 
-#: SDEVProj/templates/index.html:117
+#: SDEVProj/templates/index.html:116
 msgid ""
 "Hotwire is built for people like you because we know that when it's easy to "
 "book trips and save money, you'll travel more often and get more out of the "
 "trips and save money, you'll travel more often and get more out if the trips "
 "you take"
 msgstr ""
-"Hotwire는 당신과 같은 사람들을 위해 만들어졌습니다. 왜냐하면 우리는 그것이 쉽기 때문입니다"
-"여행을 예약하고 돈을 절약하면 더 자주 여행하고 더 많은 것을 얻을 수 있습니다."
-"여행을 하고 돈을 절약하면 더 자주 여행하고 여행을 하면 더 많은 것을 얻을 수 있습니다."
-"니가 가져"
+"Hotwire는 당신과 같은 사람들을 위해 만들어졌습니다. 왜냐하면 우리는 그것이 쉽"
+"기 때문입니다여행을 예약하고 돈을 절약하면 더 자주 여행하고 더 많은 것을 얻"
+"을 수 있습니다.여행을 하고 돈을 절약하면 더 자주 여행하고 여행을 하면 더 많"
+"은 것을 얻을 수 있습니다.니가 가져"
 
+#: SDEVProj/templates/index.html:395 SDEVProj/templates/index.html:396
+#: SDEVProj/templates/index.html:424 SDEVProj/templates/index.html:438
+msgid "Booking"
+msgstr "예약"
+
+#: SDEVProj/templates/index.html:403
+msgid "Cebu, Philippines"
+msgstr "세부, 필리핀"
+
+#: SDEVProj/templates/index.html:404 SDEVProj/templates/index.html:418
+#: SDEVProj/templates/index.html:432
+msgid "one-way"
+msgstr "일방 통행"
+
+#: SDEVProj/templates/index.html:406
+msgid "Enjoy the sunny beaches"
+msgstr "햇살 가득한 해변 즐기기"
+
+#: SDEVProj/templates/index.html:407 SDEVProj/templates/index.html:435
+msgid "and nightlife"
+msgstr "그리고 밤문화"
+
+#: SDEVProj/templates/index.html:410
+msgid "Book Now"
+msgstr "지금 예약"
+
+#: SDEVProj/templates/index.html:417
+msgid "Lagos, Nigeria"
+msgstr "라고스, 나이지리아"
+
+#: SDEVProj/templates/index.html:420
+msgid "Enjoy the Nightlife"
+msgstr "밤문화 즐기기"
+
+#: SDEVProj/templates/index.html:421
+msgid "and Safari trips"
+msgstr "그리고 사파리 여행"
+
+#: SDEVProj/templates/index.html:431
+msgid "Ha noi, Vietnam"
+msgstr "베트남 하노이"
+
+#: SDEVProj/templates/index.html:434
+msgid "Enjoy the street food"
+msgstr "길거리 음식을 즐기다"
+
+#: SDEVProj/templates/index.html:453 SDEVProj/templates/index.html:454
+msgid "Team"
+msgstr "팀"
+
+#: SDEVProj/templates/index.html:455
+msgid "Let me introduce you to our team"
+msgstr "우리 팀을 소개하겠습니다"
+
+#: SDEVProj/templates/index.html:463
+msgid "Chief Executive Officer"
+msgstr "최고 경영자"
+
+#: SDEVProj/templates/index.html:465
+msgid "Mena is the founder of the company she is hardworking and make sure"
+msgstr "Mena는 열심히 일하는 회사의 설립자이며"
+
+#: SDEVProj/templates/index.html:480
+msgid "Travel Agent"
+msgstr "여행사 직원"
+
+#: SDEVProj/templates/index.html:482
+msgid ""
+"Anne is a travel agent and she ahs all the advice you would need when "
+"travelling."
+msgstr ""
+"Anne은 여행사이고 그녀는 당신이 그럴 때 필요한 모든 조언을 아십니다.여행."
+
+#: SDEVProj/templates/index.html:499
+msgid ""
+"Mosumola is resposible for overseeing the development of technology for the "
+"external customers to help improve the business."
+msgstr ""
+"Mosumola는 기술 개발을 감독하는 책임이 있습니다.외부 고객이 비즈니스 개선을 "
+"돕습니다."
+
+#: SDEVProj/templates/index.html:520 SDEVProj/templates/index.html:521
+msgid "Contact"
+msgstr "연락하다"
+
+#: SDEVProj/templates/index.html:522
+msgid ""
+"To make an enquiry please fill out the form below and we shall get back to "
+"you within 24 hours :)"
+msgstr ""
+"문의를 하시려면 아래 양식을 작성해 주시면 답변해 드리겠습니다.24시간 이내 :)"
+
+#: SDEVProj/templates/index.html:529
+msgid "Our Address"
+msgstr "우리 주소"
+
+#: SDEVProj/templates/index.html:545
+msgid "Call Us"
+msgstr "전화주세요"
+
+#: SDEVProj/templates/index.html:603
+msgid "Phone:"
+msgstr "핸드폰:"
+
+#: SDEVProj/templates/index.html:604
+msgid "Email:"
+msgstr "이메일:"

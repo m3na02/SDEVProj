@@ -75,8 +75,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-
+          <li><a class="nav-link scrollto" href="#pricing">Bookings</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -392,60 +391,51 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Pricing</span>
-          <h2>Pricing</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>Booking</span>
+          <h2>{% trans "Booking" %}</h2>
+          <p>{% trans "Booking" %}</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="150">
             <div class="box">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <h3>{% trans "Cebu, Philippines" %}</h3>
+              <h4><sup>€</sup>350<span> / {% trans "one-way" %}</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>{% trans "Enjoy the sunny beaches" %}</li>
+                <li>{% trans "and nightlife" %} </li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">{%trans "Book Now" %}</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0" data-aos="zoom-in">
             <div class="box featured">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+              <h3>{%trans "Lagos, Nigeria" %} </h3>
+              <h4><sup>€</sup>550<span> /{%trans "one-way" %}</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>{%trans "Enjoy the Nightlife" %} </li>
+                <li>{%trans "and Safari trips" %}</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">{%trans "Booking" %}</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
             <div class="box">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h3>{%trans "Ha noi, Vietnam" %}</h3>
+              <h4><sup>€</sup>450<span> /{%trans "one-way" %}</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>{%trans "Enjoy the street food" %}</li>
+                <li>{%trans "and nightlife" %} </li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">{%trans "Booking" %}</a>
               </div>
             </div>
           </div>
@@ -460,19 +450,19 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Team</span>
-          <h2>Team</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>{%trans "Team" %}</span>
+          <h2>{%trans "Team" %}</h2>
+          <p>{%trans "Let me introduce you to our team" %}</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
               <img src="assets/img/team/team-1.jpg" alt="">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <h4>Mena Nguen</h4>
+              <span>{%trans "Chief Executive Officer" %}</span>
               <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                {%trans "Mena is the founder of the company she is hardworking and make sure" %}
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -486,10 +476,10 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
               <img src="assets/img/team/team-2.jpg" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <h4>Mary-Anne Flores</h4>
+              <span>{%trans "Travel Agent" %}</span>
               <p>
-                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                {%trans "Anne is a travel agent and she ahs all the advice you would need when travelling." %}
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -503,10 +493,10 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>William Anderson</h4>
+              <h4>Mosunmola Bello</h4>
               <span>CTO</span>
               <p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                {%trans "Mosumola is resposible for overseeing the development of technology for the external customers to help improve the business." %}
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -527,16 +517,16 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Contact</span>
-          <h2>Contact</h2>
-          <p>To make an enquiry please fill out the form below and we shall get back to you within 24 hours :)</p>
+          <span>{%trans "Contact" %}</span>
+          <h2>{%trans "Contact" %}</h2>
+          <p>{%trans "To make an enquiry please fill out the form below and we shall get back to you within 24 hours :)" %}</p>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-lg-6">
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
-              <h3>Our Address</h3>
+              <h3>{%trans "Our Address" %}</h3>
               <p>TU Dublin, Grangegorman Lower, Dublin 7, D07 ADY7</p>
             </div>
           </div>
@@ -552,7 +542,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
-              <h3>Call Us</h3>
+              <h3>{%trans "Call Us" %}</h3>
               <p> +353 899 493 410</p>
             </div>
           </div>
@@ -610,8 +600,8 @@
                 TU Dublin, <br>
                 Grangegorman Lower,<br>
                 Dublin 7, D07 ADY7<br><br>
-                <strong>Phone:</strong> +353 899 493 410<br>
-                <strong>Email:</strong> contactus@hotwire.com<br>
+                <strong>{%trans "Phone:" %}</strong> +353 899 493 410<br>
+                <strong>{%trans "Email:" %}</strong> contactus@hotwire.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -628,22 +618,11 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
