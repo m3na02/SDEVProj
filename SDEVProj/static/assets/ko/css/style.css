@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #cc1616;
+  background: yellow;
   width: 40px;
   height: 40px;
   transition: all 0.4s;
@@ -318,7 +318,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: yellow;
+  background-color: #fff;
   overflow-y: auto;
   transition: 0.3s;
 }
