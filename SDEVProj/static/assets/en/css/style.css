@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #cc1616;
+  background:#0059b3;
   width: 40px;
   height: 40px;
   transition: all 0.4s;
@@ -48,8 +48,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
+<<<<<<< HEAD
   background: #e72323;
   color: #00008B;
+=======
+  background:  #0059b3;
+  color: #fff;
+>>>>>>> bd26c4a22bf53981e83e9d9c0d261cc27f105deb
 }
 .back-to-top.active {
   visibility: visible;
@@ -125,7 +130,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #topbar .contact-info a:hover {
+<<<<<<< HEAD
   color: #0000ff;
+=======
+  color:  #0039e6;
+>>>>>>> bd26c4a22bf53981e83e9d9c0d261cc27f105deb
 }
 #topbar .contact-info i {
   color: #cc1616;
@@ -150,7 +159,11 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
+<<<<<<< HEAD
   background: #0000ff;
+=======
+  background:yellow;
+>>>>>>> bd26c4a22bf53981e83e9d9c0d261cc27f105deb
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
