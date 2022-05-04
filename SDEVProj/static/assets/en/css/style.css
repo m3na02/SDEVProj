@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color:yellow;
+  color: #444444;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #e82d2d;
+  color: blue;
   text-decoration: none;
 }
 
