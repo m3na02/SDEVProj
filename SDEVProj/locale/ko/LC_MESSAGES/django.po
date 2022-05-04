@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-03 13:52+0000\n"
+"POT-Creation-Date: 2022-05-04 14:53+0000\n"
 "PO-Revision-Date: 2022-05-01 23:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -26,6 +26,26 @@ msgstr "English"
 msgid "Korean"
 msgstr "한국어"
 
-#: SDEVProj/templates/index.html:126
-msgid "Ullamco laboris nisi ut aliquip ex ea commodo consequat"
+#: SDEVProj/templates/index.html:110
+msgid "Welcome to HOTWIRE"
+msgstr "핫와이어에 오신 것을 환영합니다"
+
+#: SDEVProj/templates/index.html:111
+msgid "WE ARE A TRAVELLING WEBSITE"
+msgstr "우리는 여행 웹사이트입니다"
+
+#: SDEVProj/templates/index.html:112
+msgid "Get Started"
+msgstr "시작하다"
+
+#: SDEVProj/templates/index.html:127
+msgid "Travel with us!."
+msgstr "우리와 함께 여행!."
+
+#: SDEVProj/templates/index.html:133
+msgid "Excellent Deals"
+msgstr "우수한 거래"
+
+#: hotwireca/views.py:8
+msgid "Welcome to language translation!"
 msgstr ""
