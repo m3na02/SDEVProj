@@ -9,7 +9,7 @@ body
 {
     height: 150px;
     width: auto;
-    background-color: #777;
+    background-color: #66ffcc;
 }
 #header1 img
 {
@@ -39,7 +39,7 @@ ul
   margin:0;
   padding: 0;
   overflow: hidden;
-  background-color:gray;
+  background-color:#66ffcc;
   width:100%;
 }
 
