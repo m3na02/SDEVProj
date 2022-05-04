@@ -527,7 +527,7 @@ section {
   font-weight: 600;
   padding: 0;
   margin: 20px 0;
-  color: #191919;
+  color: black;
 }
 .why-us .box p {
   color: #aaaaaa;
@@ -543,6 +543,91 @@ section {
 .why-us .box:hover span, .why-us .box:hover h4, .why-us .box:hover p {
   color: #fff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# Images
+--------------------------------------------------------------*/
+.textWithImage
+{
+	margin:10px;
+}
+.textWithImage p
+{
+	display:inline-block;
+	vertical-align: top;
+	width:65%;
+}
+.textWithImage img
+{
+	margin:10px;
+	display:inline-block;
+	border-radius:50%;
+	width:30%;
+}
+
+
+.textWithImage h2
+{
+	display:inline-block;
+	vertical-align: top;
+	width:65%;
+}
+.textWithImage img
+{
+	margin:10px;
+	display:inline-block;
+	border-radius:50%;
+	width:30%;
+}
+
+.Images img
+{
+	display:inline-block;
+	width:27%;
+	margin:3%;
+	border-radius:5px;
+}
+/*--------------------------------------------------------------
+# End of images
+--------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*--------------------------------------------------------------
 # Clients
@@ -820,7 +905,7 @@ section {
 --------------------------------------------------------------*/
 .pricing .box {
   padding: 20px;
-  background: url("../img/bg1.JPG");
+  background: #ccebff;
   text-align: center;
   border-radius: 8px;
   position: relative;
