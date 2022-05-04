@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-04 14:53+0000\n"
+"POT-Creation-Date: 2022-05-04 15:24+0000\n"
 "PO-Revision-Date: 2022-05-01 23:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -26,26 +26,53 @@ msgstr "English"
 msgid "Korean"
 msgstr "한국어"
 
-#: SDEVProj/templates/index.html:110
+#: SDEVProj/templates/index.html:91
 msgid "Welcome to HOTWIRE"
 msgstr "핫와이어에 오신 것을 환영합니다"
 
-#: SDEVProj/templates/index.html:111
+#: SDEVProj/templates/index.html:92
 msgid "WE ARE A TRAVELLING WEBSITE"
 msgstr "우리는 여행 웹사이트입니다"
 
-#: SDEVProj/templates/index.html:112
+#: SDEVProj/templates/index.html:93
 msgid "Get Started"
 msgstr "시작하다"
 
-#: SDEVProj/templates/index.html:127
+#: SDEVProj/templates/index.html:108
 msgid "Travel with us!."
 msgstr "우리와 함께 여행!."
 
-#: SDEVProj/templates/index.html:133
+#: SDEVProj/templates/index.html:110
+msgid ""
+"When it comes to travelling, the team Hotwire is a lot like you!. We're "
+"always bringing back travel tips and stories from our adventures because we "
+"don't think trips we go out and live them."
+msgstr ""
+"여행을 할 때 Hotwire 팀은 당신과 많이 닮았습니다!. 우리는 항상 우리의 모험에"
+"서 여행 팁과 이야기를 가져오기 때문에우리가 나가서 사는 여행을 생각하지 마십"
+"시오."
+
+#: SDEVProj/templates/index.html:113
 msgid "Excellent Deals"
 msgstr "우수한 거래"
 
-#: hotwireca/views.py:8
-msgid "Welcome to language translation!"
+#: SDEVProj/templates/index.html:114
+msgid "Reliable ."
+msgstr "믿을 수 있는 ."
+
+#: SDEVProj/templates/index.html:115
+msgid "Simple and Easy to use."
+msgstr "간단하고 사용하기 쉽습니다"
+
+#: SDEVProj/templates/index.html:117
+msgid ""
+"Hotwire is built for people like you because we know that when it's easy to "
+"book trips and save money, you'll travel more often and get more out of the "
+"trips and save money, you'll travel more often and get more out if the trips "
+"you take"
 msgstr ""
+"Hotwire는 당신과 같은 사람들을 위해 만들어졌습니다. 왜냐하면 우리는 그것이 쉽기 때문입니다"
+"여행을 예약하고 돈을 절약하면 더 자주 여행하고 더 많은 것을 얻을 수 있습니다."
+"여행을 하고 돈을 절약하면 더 자주 여행하고 여행을 하면 더 많은 것을 얻을 수 있습니다."
+"니가 가져"
+
